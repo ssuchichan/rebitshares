@@ -1,4 +1,4 @@
-# Implement Bitshares from 0 to 1
+# Reimplement Bitshares from 0 to 1
 从0到1实现Bitshares。
 ## 目的
 在实现的过程中加深对Bitshares区块链的理解，提升编程能力。
